@@ -1,0 +1,9 @@
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.deps.json
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csprojAssemblyReference.cache
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfo.cs
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Project-Sapphire-Chain.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Project-Sapphire-Chain.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project-Sapphire-Chain.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project-Sapphire-Chain.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj",
+      "msbuildProject": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Project-Sapphire-Chain.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shali\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
+      "projectName": "Project-Sapphire-Chain.api",
+      "projectPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
+      "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
+              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

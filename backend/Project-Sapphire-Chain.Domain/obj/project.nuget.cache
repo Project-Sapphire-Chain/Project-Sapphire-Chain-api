@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "66ga3a9YXGQY5iCdbSxM8+RNNx77CYvhNqmEl2f1GCQkya4S8I2RdghRETK701A6k2AGjOWYWZqmFtnp4dLI0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

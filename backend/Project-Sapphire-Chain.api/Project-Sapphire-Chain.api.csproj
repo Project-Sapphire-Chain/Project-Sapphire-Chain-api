@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project-Sapphire-Chain.domain\Project-Sapphire-Chain.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Project_Sapphire_Chain.api</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>
