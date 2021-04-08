@@ -4,13 +4,11 @@ namespace Sapphire.Chain.Domain.Catalog
 {
 	public class Rating
 	{
-		public int Star { get; set }
+		public int Star { get; set; }
 		public string UserName { get; set; }
-		public string Review { get; set }
-	}
-}
+		public string Review { get; set; }
 
-public Rating(int starss, string userName, string review)
+    public Rating(int stars, string userName, string review)
 {
     if (stars < 1 || stars > 5)
     {
@@ -26,3 +24,9 @@ public Rating(int starss, string userName, string review)
     this.UserName = userName;
     this.Review = review;
 }
+
+	}
+    
+}
+
+

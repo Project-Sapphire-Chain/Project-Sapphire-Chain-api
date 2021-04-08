@@ -1,5 +1,6 @@
-using Microsoft.ASPNetCore.Mvc
-using Sapphire.Chain.Domain.Catalog
+using Microsoft.AspNetCore.Mvc;
+using Sapphire.Chain.Domain.Catalog;
+using System.Collections.Generic;
 
 namespace Sapphire.Chain.Api.Controllers
 {
@@ -7,12 +8,11 @@ namespace Sapphire.Chain.Api.Controllers
 	[Route("[controller]")]
 	public class CatalogController : ControllerBase
 	{
-
+		[HttpGet]
+		public IActionResult GetItems()
+	{
+		return Ok("hello world.");
+	}
 	}
 }
 
-[HttpGet]
-public IActionResult GetItems()
-{
-	return Ok("hello world.");
-}
