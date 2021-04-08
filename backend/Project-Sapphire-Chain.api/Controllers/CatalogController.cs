@@ -7,12 +7,10 @@ namespace Sapphire.Chain.Api.Controllers
 	[Route("[controller]")]
 	public class CatalogController : ControllerBase
 	{
-
+    [HttpGet]
+    public IActionResult GetItems()
+    {
+	    return Ok("hello world.");
+    }
 	}
-}
-
-[HttpGet]
-public IActionResult GetItems()
-{
-	return Ok("hello world.");
 }
