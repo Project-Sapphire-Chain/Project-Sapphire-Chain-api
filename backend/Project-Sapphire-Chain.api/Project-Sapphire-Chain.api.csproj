@@ -2,10 +2,15 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Project-Sapphire-Chain.domain\Project-Sapphire-Chain.Domain.csproj" />
+    <ProjectReference Include="..\Project-Sapphire-Chain.Data\Project-Sapphire-Chain.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.5" />
   </ItemGroup>
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Project_Sapphire_Chain.api</RootNamespace>
   </PropertyGroup>
 

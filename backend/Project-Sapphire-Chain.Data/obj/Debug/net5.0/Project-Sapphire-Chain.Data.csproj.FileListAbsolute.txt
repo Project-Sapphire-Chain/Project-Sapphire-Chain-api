@@ -1,0 +1,15 @@
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\Project-Sapphire-Chain.Data.deps.json
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\Project-Sapphire-Chain.Data.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\ref\Project-Sapphire-Chain.Data.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\Project-Sapphire-Chain.Data.pdb
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\Project-Sapphire-Chain.Domain.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\bin\Debug\net5.0\Project-Sapphire-Chain.Domain.pdb
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.csprojAssemblyReference.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.AssemblyInfoInputs.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.AssemblyInfo.cs
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.csproj.CoreCompileInputs.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.csproj.CopyComplete
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\ref\Project-Sapphire-Chain.Data.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Data\obj\Debug\net5.0\Project-Sapphire-Chain.Data.pdb
