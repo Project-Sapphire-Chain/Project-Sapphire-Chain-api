@@ -7,3 +7,12 @@ C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sap
 C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csproj.CoreCompileInputs.cache
 C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
 C:\Users\shali\Desktop\3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.deps.json
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csprojAssemblyReference.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfoInputs.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfo.cs
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csproj.CoreCompileInputs.cache
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+D:\documents\osu\senior2021\ACCTMIS 3610\repos\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb

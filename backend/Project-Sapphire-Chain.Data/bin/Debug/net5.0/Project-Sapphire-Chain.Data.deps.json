@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project-Sapphire-Chain.Data/1.0.0": {
+        "dependencies": {
+          "Project-Sapphire-Chain.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Project-Sapphire-Chain.Data.dll": {}
+        }
+      },
+      "Project-Sapphire-Chain.Domain/1.0.0": {
+        "runtime": {
+          "Project-Sapphire-Chain.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project-Sapphire-Chain.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project-Sapphire-Chain.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

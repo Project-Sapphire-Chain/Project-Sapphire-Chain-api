@@ -1,7 +1,20 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
+      "Project-Sapphire-Chain.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Project-Sapphire-Chain.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Project-Sapphire-Chain.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project-Sapphire-Chain.Data.dll": {}
+        }
+      },
       "Project-Sapphire-Chain.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,43 +28,53 @@
     }
   },
   "libraries": {
+    "Project-Sapphire-Chain.Data/1.0.0": {
+      "type": "project",
+      "path": "../Project-Sapphire-Chain.Data/Project-Sapphire-Chain.Data.csproj",
+      "msbuildProject": "../Project-Sapphire-Chain.Data/Project-Sapphire-Chain.Data.csproj"
+    },
     "Project-Sapphire-Chain.Domain/1.0.0": {
       "type": "project",
-      "path": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj",
-      "msbuildProject": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj"
+      "path": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj",
+      "msbuildProject": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
+      "Project-Sapphire-Chain.Data >= 1.0.0",
       "Project-Sapphire-Chain.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shali\\.nuget\\packages\\": {}
+    "C:\\Users\\justi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
+      "projectUniqueName": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
       "projectName": "Project-Sapphire-Chain.api",
-      "projectPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
-      "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\obj\\",
+      "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
+      "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+      "outputPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
-              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
+            "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj": {
+              "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj"
+            },
+            "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
+              "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj"
             }
           }
         }
@@ -63,7 +86,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -82,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Sapphire-Chain.api", "Project-Sapphire-Chain.api\Project-Sapphire-Chain.api.csproj", "{A386C936-6388-4B72-A6FB-8C69AEC6F91E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Sapphire-Chain.Data", "Project-Sapphire-Chain.Data\Project-Sapphire-Chain.Data.csproj", "{FEB9561B-7180-4B67-81F0-264E89B839F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{A386C936-6388-4B72-A6FB-8C69AEC6F91E}.Release|x64.Build.0 = Release|Any CPU
 		{A386C936-6388-4B72-A6FB-8C69AEC6F91E}.Release|x86.ActiveCfg = Release|Any CPU
 		{A386C936-6388-4B72-A6FB-8C69AEC6F91E}.Release|x86.Build.0 = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|x64.Build.0 = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEB9561B-7180-4B67-81F0-264E89B839F9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

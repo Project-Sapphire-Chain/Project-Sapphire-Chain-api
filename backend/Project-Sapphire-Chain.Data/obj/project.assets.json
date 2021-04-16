@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Project-Sapphire-Chain.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Project-Sapphire-Chain.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project-Sapphire-Chain.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project-Sapphire-Chain.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj",
+      "msbuildProject": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Project-Sapphire-Chain.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\justi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj",
+      "projectName": "Project-Sapphire-Chain.Data",
+      "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj",
+      "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+      "outputPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
+              "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
