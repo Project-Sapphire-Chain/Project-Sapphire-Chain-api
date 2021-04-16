@@ -29,8 +29,8 @@
               "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj": {
                 "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj"
               },
-              "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
-                "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj"
+              "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
+                "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
               }
             }
           }
@@ -44,6 +44,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -88,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
-                "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj"
+              "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
+                "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
               }
             }
           }
@@ -122,14 +128,14 @@
         }
       }
     },
-    "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
+    "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj",
+        "projectUniqueName": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
         "projectName": "Project-Sapphire-Chain.Domain",
-        "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj",
+        "projectPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
         "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-        "outputPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\obj\\",
+        "outputPath": "D:\\documents\\osu\\senior2021\\ACCTMIS 3610\\repos\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
