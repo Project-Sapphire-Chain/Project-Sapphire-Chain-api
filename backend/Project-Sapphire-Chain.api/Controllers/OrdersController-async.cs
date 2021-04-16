@@ -12,11 +12,11 @@ namespace Project_Sapphire_Chain.api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class OrdersController-async : ControllerBase
+    public class OrdersController : ControllerBase
     {
         private readonly StoreContext _context;
 
-        public OrdersController-async(StoreContext context)
+        public OrdersController(StoreContext context)
         {
             _context = context;
         }
