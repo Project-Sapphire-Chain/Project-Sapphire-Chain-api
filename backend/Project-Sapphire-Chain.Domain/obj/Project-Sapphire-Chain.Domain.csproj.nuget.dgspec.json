@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {}
+    "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
+    "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj",
         "projectName": "Project-Sapphire-Chain.Domain",
-        "projectPath": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
+        "projectPath": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj",
         "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\obj\\",
+        "outputPath": "C:\\Users\\shali\\Desktop\\3610\\Lab 5 mid part\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config"
