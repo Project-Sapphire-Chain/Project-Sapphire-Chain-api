@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Sapphire.Chain.Domain.Catalog;
 using System.Collections.Generic;
 using Project.Sapphire.Chain.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Sapphire.Chain.Api.Controllers
 {
@@ -56,14 +57,35 @@ namespace Sapphire.Chain.Api.Controllers
 		[HttpPut("{id:int}")]
 		public IActionResult PutItem(int id, [FromBody] Item item)
 		{
-			return Ok();
+			if(id != item.Id)
+			{
+			return BadRequest();
 		}
+
+			if (_db.Items.Find(id) == null)
+		{
+		return NotFound();
+		}
+
+		_db.Entry(item).State = EntityState.Modified;
+		_db.SaveChanges();
+
+	return NoContent();
+}
 
 		[HttpDelete]
 		public IActionResult DeleteItem(int id)
 		{
-			return Ok();
+		var item = _db.Items.Find(id);
+		if (item == null)
+		{
+		return NotFound();
 		}
-}
+		_db.Items.Remove(item);
+		_db.SaveChanges();
+
+		return Ok();
+		}
+	}
 }
 
