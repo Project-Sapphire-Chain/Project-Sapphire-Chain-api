@@ -34,3 +34,12 @@ C:/Users/shali/Desktop/3610/Lab 5 mid part/Project-Sapphire-Chain-api/backend/Pr
 /Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.Domain/obj/Debug/netstandard2.0/Project-Sapphire-Chain.Domain.csproj.CoreCompileInputs.cache
 /Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.Domain/obj/Debug/netstandard2.0/Project-Sapphire-Chain.Domain.dll
 /Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.Domain/obj/Debug/netstandard2.0/Project-Sapphire-Chain.Domain.pdb
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.deps.json
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\bin\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csprojAssemblyReference.cache
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfoInputs.cache
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.AssemblyInfo.cs
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.dll
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain\obj\Debug\netstandard2.0\Project-Sapphire-Chain.Domain.pdb

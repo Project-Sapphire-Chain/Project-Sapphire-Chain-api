@@ -7470,19 +7470,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/benprazak/.nuget/packages/": {}
+    "C:\\Users\\shali\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.api/Project-Sapphire-Chain.api.csproj",
+      "projectUniqueName": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
       "projectName": "Project-Sapphire-Chain.api",
-      "projectPath": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.api/Project-Sapphire-Chain.api.csproj",
-      "packagesPath": "/Users/benprazak/.nuget/packages/",
-      "outputPath": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.api/obj/",
+      "projectPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\Project-Sapphire-Chain.api.csproj",
+      "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/benprazak/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7494,11 +7494,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.Data/Project-Sapphire-Chain.Data.csproj": {
-              "projectPath": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.Data/Project-Sapphire-Chain.Data.csproj"
+            "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj": {
+              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Data\\Project-Sapphire-Chain.Data.csproj"
             },
-            "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj": {
-              "projectPath": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj"
+            "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
+              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
             }
           }
         }
@@ -7550,7 +7550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a3j4YeLnJibalFRgkBszvb5OjNE7+oRzqQkZgw3Q6j/K57HfvejSHg37tXEwQIBA4nBw44+V86qoPNl+RxozMw==",
+  "dgSpecHash": "oyVGdoigiuQ6FGk/wNhsOnLqz/FHeE49j6kSFueIOantrQ00uKQXTTFQviZMw6mJnZOttAeQNb7/7irYLHL9qQ==",
   "success": true,
-  "projectFilePath": "/Users/benprazak/Desktop/lab6/Project-Sapphire-Chain-api/backend/Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj",
+  "projectFilePath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/benprazak/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/benprazak/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\shali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
