@@ -5804,8 +5804,8 @@
     },
     "Project-Sapphire-Chain.Domain/1.0.0": {
       "type": "project",
-      "path": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj",
-      "msbuildProject": "../Project-Sapphire-Chain.domain/Project-Sapphire-Chain.Domain.csproj"
+      "path": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj",
+      "msbuildProject": "../Project-Sapphire-Chain.Domain/Project-Sapphire-Chain.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5843,8 +5843,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj": {
-              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.domain\\Project-Sapphire-Chain.Domain.csproj"
+            "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj": {
+              "projectPath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain\\Project-Sapphire-Chain.Domain.csproj"
             }
           }
         }
