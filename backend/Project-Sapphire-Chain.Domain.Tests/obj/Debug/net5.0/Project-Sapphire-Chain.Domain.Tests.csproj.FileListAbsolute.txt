@@ -195,3 +195,4 @@ C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapp
 C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain.Tests\obj\Debug\net5.0\Project-Sapphire-Chain.Domain.Tests.genruntimeconfig.cache
 c:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain.Tests\bin\Debug\net5.0\Project-Sapphire-Chain.Domain.dll
 c:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain.Tests\bin\Debug\net5.0\Project-Sapphire-Chain.Domain.pdb
+C:\Users\shali\Desktop\3610\lab6\Project-Sapphire-Chain-api\backend\Project-Sapphire-Chain.Domain.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping

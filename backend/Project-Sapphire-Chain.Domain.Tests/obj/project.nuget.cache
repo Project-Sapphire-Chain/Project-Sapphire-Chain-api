@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "U/WSZwrzHAP6Ydi/sf5NYC8+hjNsP3Pdgx0ivt97Mee4F2E3auSQ4vQDRBxQ7SREe57kqVfHJXHtJpJElEklDg==",
+  "dgSpecHash": "ykOTuNrh+6lRVgmTLS/srQJr+oAHG74+f/Z3M1kz8z35McmOT/i9sEMafZ+6geXqMC0xWOCi5hEyQpa7RgvaEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\shali\\Desktop\\3610\\lab6\\Project-Sapphire-Chain-api\\backend\\Project-Sapphire-Chain.Domain.Tests\\Project-Sapphire-Chain.Domain.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shali\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\shali\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
+    "C:\\Users\\shali\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\shali\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\shali\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\shali\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
