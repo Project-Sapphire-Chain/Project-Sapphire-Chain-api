@@ -20,13 +20,12 @@ namespace Project_Sapphire_Chain.Domain.Tests
     [TestMethod]
     public void can_create_add_rating()
         {
-        var item1 = new Item("Name", "Description", "Brand", 10.00m);
-        var rating1 = new Rating(5, "Name", "Review");
+        var item = new Item("Name", "Description", "Brand", 10.00m);
+        var rating = new Rating(5, "Name", "Review");
 
-        item1.AddRating(rating1);
-        Assert.AreEqual(rating1, item1.Ratings[0]);
+        item.AddRating(rating);
+        Assert.AreEqual(rating, item.Ratings[0]);
         }
-
 
     }
 }
