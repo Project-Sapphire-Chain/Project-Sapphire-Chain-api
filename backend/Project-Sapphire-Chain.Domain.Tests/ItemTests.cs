@@ -16,5 +16,17 @@ namespace Project_Sapphire_Chain.Domain.Tests
     Assert.AreEqual("Brand", item.Brand);
     Assert.AreEqual(10.00m, item.Price);
         }
+    
+    [TestMethod]
+    public void can_create_add_rating()
+        {
+        var item = new Item("Name", "Description", "Brand", 10.00m);
+        var rating = new Rating(5, "Name", "Review");
+
+       item.AddRating(rating);
+       Assert.AreEqual(rating, item.Ratings[0]);
+        }
+
+
     }
 }
