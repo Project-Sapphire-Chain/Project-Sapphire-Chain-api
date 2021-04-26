@@ -11,7 +11,9 @@ namespace Sapphire.Chain.Domain.Catalog
         public string Brand { get; set; }
         public decimal Price { get; set; }
 		public List<Rating> Ratings{ get; set; }
-	public Item(string name, string description, string brand, decimal price)
+		public string ImageUrl {get; set;}
+
+	public Item(string name, string description, string brand, string imageUrl, decimal price)
 	{
 	if(string.IsNullOrEmpty(name))
 	{
@@ -32,9 +34,14 @@ namespace Sapphire.Chain.Domain.Catalog
 	{
 	    throw new ArgumentException("Item price must be a positve amount less that $1000.00");
 	}
+	if (string.IsNullOrEmpty(imageUrl))
+	{
+		throw new ArgumentException("Image path cannot be null.");
+	}
 
     this.Name = name;
     this.Description = description;
+	this.ImageUrl = imageUrl;
     this.Brand = brand;
     this.Price = price;	
 	this.Ratings = new List<Rating>{};
